@@ -1,0 +1,5 @@
+d:\UDEMY\YelpCamp\mongodb\Server\bin\mongod --dbpath d:\UDEMY\YelpCamp\mongodb\data\db
+
+
+
+d:\UDEMY\YelpCamp\mongodb\Server\bin\mongo
